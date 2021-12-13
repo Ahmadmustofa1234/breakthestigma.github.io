@@ -1,2 +1,2 @@
 <?php
-require 'index.html';
+include_once("index.html");
